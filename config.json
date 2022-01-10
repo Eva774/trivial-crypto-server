@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "staticAssets": "../static",
+    "staticClient": "../trivial-client/build"
+}
